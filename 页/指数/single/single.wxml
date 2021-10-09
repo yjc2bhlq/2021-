@@ -1,0 +1,33 @@
+<view class="container" style="position: relative; left: -1rpx; top: 0rpx">
+  <image src='/images/00.jpg'  style="position: relative; right:-1rpx; top: 0rpx; width: 750rpx; height: 1374rpx; display: inline-block; box-sizing: border-box"></image>
+  <view class='up'></view>
+  
+ 
+</view>
+<image src='/images/danren.png' bindtap="back1" style="position: absolute; right: 70rpx; top: 20rpx; width: 600rpx; height: 108rpx; display: block; box-sizing: border-box"></image>
+  <view class='upp'></view>
+  
+  
+<view class="add_btn">
+<button class="circle"  bindtap="handletap"  style="width: 180rpx; height: 180rpx; display: block; box-sizing: border-box; left: 0rpx; top: -50rpx; position: relative">点击开始游戏</button>
+
+</view>
+
+<view class="add_btn">
+<image  src="/images/{{num1}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 25rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num2}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 145rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num3}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 265rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num4}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 385rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num5}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 505rpx; top: -626rpx"></image>
+</view>
+<view class="add_btn">
+<image  src="/images/{{num6}}.png" style="width: 100rpx; height: 100rpx; display: inline-block; box-sizing: border-box; position: relative; left: 625rpx; top: -626rpx"></image>
+</view>
