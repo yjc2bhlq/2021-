@@ -1,0 +1,14 @@
+
+<view class="container">
+  <image src='/images/0.jpg'  style="position: absolute; left: 0rpx; top: -37rpx"></image>
+  <view class='up'></view>
+<button class="bt_connect" hover-class="hover-class-1" bindtap="jump1"  style="position: relative; left: -170rpx; top: 1150rpx; width: 300rpx; height: 89rpx; display: block; box-sizing: border-box">单人游戏</button>
+<button class="bt_connect" hover-class="hover-class-1" bindtap="jump2"  style="position: relative; left: 170rpx; top: 1024rpx; width: 300rpx; height: 89rpx;  display: block;box-sizing: border-box">多人游戏</button>
+<button class="bt_connect1" hover-class="hover-class-1" bindtap="jump3"  style="position: relative; left: -340rpx; top: 585rpx; width: 20rpx; height: 200rpx; display: block;box-sizing: border-box">游戏规则</button>
+</view>
+<image src='/images/shezhi.jpg' bindtap="jump5" style="position: absolute; right: 620rpx; top: 20rpx; width: 113rpx; height: 108rpx; display: block; box-sizing: border-box"></image>
+  <view class='upp'></view>
+<image src='/images/laba.jpg' bindtap="jump4" style="position: absolute; right: 620rpx; top: 150rpx; width: 113rpx; height: 108rpx; display: block; box-sizing: border-box"></image>
+  <view class='upp'></view>
+<image src='/images/guanbi.png' bindtap="jump6" style="position: absolute; left: 620rpx; top: 20rpx; width: 80rpx; height: 80rpx; display: block; box-sizing: border-box"></image>
+  <view class='upp'></view>
