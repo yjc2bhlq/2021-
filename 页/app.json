@@ -1,0 +1,15 @@
+{
+  "pages": [
+      "pages/index/index",
+      "pages/index/single/single",
+      
+      "pages/index/srule/srule"
+  ],
+  "window": {
+      "navigationBarBackgroundColor": "#0000",
+      "navigationBarTitleText": "欢乐博饼",
+      "navigationBarTextStyle": "black"
+  },
+
+  "sitemapLocation": "sitemap.json"
+}
