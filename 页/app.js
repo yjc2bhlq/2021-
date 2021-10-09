@@ -1,7 +1,11 @@
-.container{ justify-content: center;}
-.about{ padding:8% 5%; width:600rpx;  background:#eee; color: #999; flex-shrink:1;z-index: 99}
-.about text{ display: block; line-height: 1.5rem;}
-
-.aboutme{ background: #f5f5f5; border-top:solid 1px #ccc; text-align: left;    }
-.aboutme text{ padding:10px 5px;}
-.aboutme .title{ background: #eee;  color:#333;}
+App({
+  onLaunch: function () {
+    console.log('App Launch')
+  },
+  onShow: function () {
+    console.log('App Show')
+  },
+  onHide: function () {
+    console.log('App Hide')
+  }
+})
